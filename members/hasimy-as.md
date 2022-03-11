@@ -1,1 +1,0 @@
-## Achmad Syeh Hasimy
