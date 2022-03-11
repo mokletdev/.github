@@ -14,10 +14,13 @@
 Ada beberapa hal yang harus dilakukan, yaitu: 
 
 1. Membuat data diri pada `member/[username].md`
+   
    Bisa mencontoh pada file yang sudah ada. Biar kenal sama yang lain
 2. Membuat repository baru atau kontribusi ke repository yang sudah ada sesuai dengan [gitflow](/guide/contributing.md)
+   
    Sambil belajar gimana sih gitflow yang baik itu 
 3. (Opsional) Ubah visibility keanggotaan menjadi public
+   
    Secara default, visibility keanggotaan pada organisasi di github adalah `private`. Buat yang mau dirubah bisa buka [tab people](https://github.com/orgs/mokletdev/people), pada baris nama kalian klik dropdown `private` dan ubah ke `public` 
 
 Buat yang mau gabung ke MokletDev bisa hubungi [@hasimy-as](https://github.com/hasimy-as) atau [@angkasa27](https://github.com/angkasa27)
