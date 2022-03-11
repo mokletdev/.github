@@ -18,6 +18,10 @@ SMK Telkom Malang (2021), Binus University (2025)
 
 Jawa Timur, Indonesia 
 
+### Personal Web
+
+[https://angkasa27.github.io/](https://angkasa27.github.io/) 
+
 ## Personal Project
 
 - [MokletDev](https://mokletdev.vercel.app/)
