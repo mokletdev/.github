@@ -20,7 +20,7 @@ Ada beberapa hal yang harus dilakukan, yaitu:
 3. (Opsional) Ubah visibility keanggotaan menjadi public
    Secara default, visibility keanggotaan pada organisasi di github adalah `private`. Buat yang mau dirubah bisa buka [tab people](https://github.com/orgs/mokletdev/people), pada baris nama kalian klik dropdown `private` dan ubah ke `public` 
 
-Buat yang mau gabung ke MokletDev bisa hubungi [@hasimy-as](https://github.com/hasimy-as)([hasimy@aol.com](mailto:hasimy@aol.com)) atau [@angkasa27](https://github.com/angkasa27)([mas.angkasa27@gmail.com](mailto:mas.angkasa27@gmail.com))
+Buat yang mau gabung ke MokletDev bisa hubungi [@hasimy-as](https://github.com/hasimy-as) atau [@angkasa27](https://github.com/angkasa27)
 
 ## Tutorial 
 
@@ -38,7 +38,7 @@ Silahkan cek [tutorial gitflow](/guide/contributing.md) jika masih bingung
 
 ## Owners & Admin
 
-- Achmad Syeh Hasimy, Md [@hasimy-as](https://github.com/hasimy-as)([hasimy@aol.com](mailto:hasimy@aol.com))
-- Dimas Angkasa Nurindra [@angkasa27](https://github.com/angkasa27)([mas.angkasa27@gmail.com](mailto:mas.angkasa27@gmail.com))
+- Achmad Syeh Hasimy, Md [@hasimy-as](https://github.com/hasimy-as) ([hasimy@aol.com](mailto:hasimy@aol.com))
+- Dimas Angkasa Nurindra [@angkasa27](https://github.com/angkasa27) ([mas.angkasa27@gmail.com](mailto:mas.angkasa27@gmail.com))
 
 _Feel free to contact us jika punya kritik maupun saran untuk mokletdev :)_
