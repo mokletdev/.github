@@ -1,17 +1,22 @@
-# Dimas Angkasa Nurindra
-
 <img src="https://avatars0.githubusercontent.com/u/41984181?s=400&u=7a60dbe01be2b8d6d518410ec0197fac58e7ec5a&v=4" width="200" height="200">
-
 
 ## Profile
 
-Name      : Dimas Angkasa Nurindra
+### Name
 
-Job       : Front End Developer @Telkom Indonesia
+Dimas Angkasa Nurindra
 
-Education : SMK Telkom Malang (2021), Binus University (2025)
+### Job
 
-Address   : Jawa Timur, Indonesia 
+Front End Developer @Telkom Indonesia
+
+### Education
+
+SMK Telkom Malang (2021), Binus University (2025)
+
+### Address
+
+Jawa Timur, Indonesia 
 
 ## Personal Project
 
