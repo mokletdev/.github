@@ -24,13 +24,13 @@ Buat yang mau gabung ke MokletDev bisa hubungi [@hasimy-as](https://github.com/h
 
 ## Tutorial 
 
-# Membuat Repository Baru
+### Membuat Repository Baru
 
 Kalian bisa membuat repository baru dengan memberi nama repo yang jelas. Jangan lupa buat `readme.md` dan jelaskan apa yang kamu kerjakan di repository yang kamu buat.
 
 Tambahan, kamu bisa atur visibility repository nya ke public biar yang lain juga bisa lihat.
 
-# Contribute ke repository
+### Contribute ke repository
 
 Kalian bisa akses ke semua repository yang visible. Namum jangan lupa terapkan [gitflow](/guide/contributing.md) yang sudah ditentukan. Sekalian belajar gitflow yang baiik itu gimana
 
