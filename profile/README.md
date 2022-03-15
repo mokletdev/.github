@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://nextjs.org"></a>
-    <img src="logo.jpg" height="150">
+    <img src="https://avatars.githubusercontent.com/u/94826842?s=200&v=4" height="150">
   </a>
 </p>
 
