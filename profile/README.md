@@ -1,15 +1,24 @@
-<p align="center">
-  <a href="https://nextjs.org">
-    <img src="./logo.jpg" height="128">
-    <h1 align="center">MokletDev</h1>
+<div style="display:flex;align-items:center;justify-content:center;margin-bottom:3rem">
+  <a href="https://mokletdev.vercel.app" style="margin-right:1rem">
+    <img align="center" src="./logo.jpg" height="120">
   </a>
-</p>
+  <div >
+    <p style="font-size:3em;">MokletDev</p>
+    <p  style="margin-top:-2.5rem">Open-sourced projects by Moklet <br/> Developers for the World 4.0 🌏</p>
+  </div>
+</div>
 
-<p align="center">
-  Open-sourced projects by Moklet Developers for the World 4.0 🌏
-</p>
+# Welcome to MokletDev
 
-## What to do
+Sebuah komunitas developer dari moklet, oleh moklet, untuk moklet. Saat kami duduk dibangku SMK dulu, kami merasa kesulitan dalam mencari referensi untuk tugas pemrograman. Selain itu kami juga beluim begitu familiar dengan github. Maka dari itu kami menginginkan membuat sebuah komunitas developer yang terdiri dari siswa, guru, maupun alumni moklet untuk saling berbagi ilmu terutama dalam pemrograman
+
+# What to do
+
+## Want to join?
+
+Buat yang mau gabung ke MokletDev bisa hubungi [@hasimy-as](https://github.com/hasimy-as) atau [@angkasa27](https://github.com/angkasa27)
+
+## For member
 
 Ada beberapa hal yang harus dilakukan, yaitu:
 
@@ -25,25 +34,27 @@ Ada beberapa hal yang harus dilakukan, yaitu:
 
    Secara default, visibility keanggotaan pada organisasi di github adalah `private`. Buat yang mau dirubah bisa buka [tab people](https://github.com/orgs/mokletdev/people), pada baris nama kalian klik dropdown `private` dan ubah ke `public`
 
-Buat yang mau gabung ke MokletDev bisa hubungi [@hasimy-as](https://github.com/hasimy-as) atau [@angkasa27](https://github.com/angkasa27)
+# Tutorial
 
-## Tutorial
-
-### Membuat Repository Baru
+## Membuat Repository Baru
 
 Kalian bisa membuat repository baru dengan memberi nama repo yang jelas. Jangan lupa buat `readme.md` dan jelaskan apa yang kamu kerjakan di repository yang kamu buat.
 
 Tambahan, kamu bisa atur visibility repository nya ke public biar yang lain juga bisa lihat.
 
-### Contribute ke repository
+## Contribute ke repository
 
-Kalian bisa akses ke semua repository yang visible. Namum jangan lupa terapkan [gitflow](../guide/contributing.md) yang sudah ditentukan. Sekalian belajar gitflow yang baiik itu gimana
+Kalian bisa akses ke semua repository yang visible. Namum jangan lupa terapkan [gitflow](../guide/contributing.md) yang sudah ditentukan. Sekalian belajar gitflow yang baik itu gimana
 
-Silahkan cek [tutorial gitflow](../guide/contributing.md) jika masih bingung
+Cek aja [tutorial gitflow](../guide/contributing.md) jika masih bingung
+
+_Note :_
+
+Khusus project BackEnd punya [@hasimy-as](https://github.com/hasimy-as) silahkan ikuti [tutorial gitflow ini](../guide/contributing.md)
 
 ## Owners & Admin
 
 - Achmad Syeh Hasimy, Md [@hasimy-as](https://github.com/hasimy-as) ([hasimy@aol.com](mailto:hasimy@aol.com))
 - Dimas Angkasa Nurindra [@angkasa27](https://github.com/angkasa27) ([mas.angkasa27@gmail.com](mailto:mas.angkasa27@gmail.com))
 
-_Feel free to contact us jika punya kritik maupun saran untuk mokletdev :)_
+_Feel free to contact us_ jika punya kritik maupun saran untuk mokletdev :)
