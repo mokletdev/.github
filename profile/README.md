@@ -55,10 +55,10 @@ Khusus project BackEnd punya [@hasimy-as](https://github.com/hasimy-as) silahkan
 ## Owners & Admin
 
 <a href="https://tlkm.id/hasimy">
-<img src="https://avatars.githubusercontent.com/u/51184185?v=4" width="100">
+<img src="https://avatars.githubusercontent.com/u/51184185?v=4" width="75">
 </a>
 <a href="https://angkasa27.github.io">
-<img src="https://avatars0.githubusercontent.com/u/41984181?s=400&u=7a60dbe01be2b8d6d518410ec0197fac58e7ec5a&v=4" width="100" >
+<img src="https://avatars0.githubusercontent.com/u/41984181?s=400&u=7a60dbe01be2b8d6d518410ec0197fac58e7ec5a&v=4" width="75" >
 </a>
 <!-- - [Achmad Syeh Hasimy, Md](mailto:hasimy@aol.com)
 - [Dimas Angkasa Nurindra](mailto:mas.angkasa27@gmail.com) -->
