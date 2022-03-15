@@ -1,16 +1,16 @@
-<div style="display:flex;align-items:center;justify-content:center;margin-bottom:3rem">
-  <a href="https://mokletdev.vercel.app" style="margin-right:1rem">
-    <img align="center" src="./logo.jpg" height="120">
+<p align="center">
+  <a href="https://nextjs.org"></a>
+    <img src="./logo.jpg" height="150">
   </a>
-  <div >
-    <p style="font-size:3em;">MokletDev</p>
-    <p  style="margin-top:-2.5rem">Open-sourced projects by Moklet <br/> Developers for the World 4.0 🌏</p>
-  </div>
-</div>
+</p>
 
-# Welcome to MokletDev
+<h1 align="center">
+  MokletDev Comunity
+</h1>
 
-Sebuah komunitas developer dari moklet, oleh moklet, untuk moklet. Saat kami duduk dibangku SMK dulu, kami merasa kesulitan dalam mencari referensi untuk tugas pemrograman. Selain itu kami juga beluim begitu familiar dengan github. Maka dari itu kami menginginkan membuat sebuah komunitas developer yang terdiri dari siswa, guru, maupun alumni moklet untuk saling berbagi ilmu terutama dalam pemrograman
+## Open-sourced projects by Moklet Developers for the World 4.0 🌏
+
+Sebuah komunitas developer dari Moklet, oleh Moklet, untuk Moklet. Saat kami duduk dibangku SMK dulu, kami merasa kesulitan dalam mencari referensi untuk tugas pemrograman. Selain itu kami juga beluim begitu familiar dengan github. Maka dari itu kami menginginkan membuat sebuah komunitas developer yang terdiri dari siswa, guru, maupun alumni moklet untuk saling berbagi ilmu terutama dalam pemrograman
 
 # What to do
 
@@ -54,7 +54,13 @@ Khusus project BackEnd punya [@hasimy-as](https://github.com/hasimy-as) silahkan
 
 ## Owners & Admin
 
-- Achmad Syeh Hasimy, Md [@hasimy-as](https://github.com/hasimy-as) ([hasimy@aol.com](mailto:hasimy@aol.com))
-- Dimas Angkasa Nurindra [@angkasa27](https://github.com/angkasa27) ([mas.angkasa27@gmail.com](mailto:mas.angkasa27@gmail.com))
+<a href="https://tlkm.id/hasimy">
+<img src="https://avatars.githubusercontent.com/u/51184185?v=4" width="100">
+</a>
+<a href="https://angkasa27.github.io">
+<img src="https://avatars0.githubusercontent.com/u/41984181?s=400&u=7a60dbe01be2b8d6d518410ec0197fac58e7ec5a&v=4" width="100" >
+</a>
+<!-- - [Achmad Syeh Hasimy, Md](mailto:hasimy@aol.com)
+- [Dimas Angkasa Nurindra](mailto:mas.angkasa27@gmail.com) -->
 
 _Feel free to contact us_ jika punya kritik maupun saran untuk mokletdev :)
