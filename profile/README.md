@@ -5,12 +5,12 @@
 </p>
 
 <h1 align="center">
-  MokletDev Comunity
+  MokletDev Community
 </h1>
 
 ## Open-sourced projects by Moklet Developers for the World 4.0 🌏
 
-Sebuah komunitas developer dari Moklet, oleh Moklet, untuk Moklet. Saat kami duduk dibangku SMK dulu, kami merasa kesulitan dalam mencari referensi untuk tugas pemrograman. Selain itu kami juga beluim begitu familiar dengan github. Maka dari itu kami menginginkan membuat sebuah komunitas developer yang terdiri dari siswa, guru, maupun alumni moklet untuk saling berbagi ilmu terutama dalam pemrograman
+Sebuah komunitas developer dari Moklet, oleh Moklet, untuk Moklet. Saat kami duduk dibangku SMK dulu, kami merasa kesulitan dalam mencari referensi untuk tugas pemrograman. Selain itu kami juga belum begitu familiar dengan Github. Maka dari itu kami menginginkan membuat sebuah komunitas developer yang terdiri dari siswa, guru, maupun alumni moklet untuk saling berbagi ilmu terutama dalam pemrograman
 
 # What to do
 
@@ -26,7 +26,7 @@ Ada beberapa hal yang harus dilakukan, yaitu:
 
    Bisa mencontoh pada file yang sudah ada. Biar kenal sama yang lain
 
-2. Membuat repository baru atau kontribusi ke repository yang sudah ada sesuai dengan [gitflow](../guide/contributing.md)
+2. Membuat repository baru atau kontribusi ke repository yang sudah ada sesuai dengan [gitflow](https://github.com/mokletdev/.github/blob/master/guide/contributing.md)
 
    Sambil belajar gimana sih gitflow yang baik itu
 
@@ -44,13 +44,13 @@ Tambahan, kamu bisa atur visibility repository nya ke public biar yang lain juga
 
 ## Contribute ke repository
 
-Kalian bisa akses ke semua repository yang visible. Namum jangan lupa terapkan [gitflow](../guide/contributing.md) yang sudah ditentukan. Sekalian belajar gitflow yang baik itu gimana
+Kalian bisa akses ke semua repository yang visible. Namum jangan lupa terapkan [gitflow](https://github.com/mokletdev/.github/blob/master/guide/contributing.md) yang sudah ditentukan. Sekalian belajar gitflow yang baik itu gimana~
 
-Cek aja [tutorial gitflow](../guide/contributing.md) jika masih bingung
+Cek aja [tutorial gitflow](https://github.com/mokletdev/.github/blob/master/guide/contributing.md) jika masih bingung
 
 _Note :_
 
-Khusus project BackEnd punya [@hasimy-as](https://github.com/hasimy-as) silahkan ikuti [tutorial gitflow ini](../guide/contributing.md)
+Khusus project BackEnd punya [@hasimy-as](https://github.com/hasimy-as) silahkan ikuti [tutorial gitflow ini](https://github.com/mokletdev/.github/blob/master/guide/gitflow-backend.md)
 
 ## Owners & Admin
 
