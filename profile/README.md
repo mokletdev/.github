@@ -7,6 +7,9 @@
 <h1 align="center">
   MokletDev Community
 </h1>
+<p align="center">
+  METIC Moklet Divisi Dev
+</p>
 
 ## Open-sourced projects by Moklet Developers for the World 4.0 🌏
 
@@ -16,7 +19,7 @@ Sebuah komunitas developer dari Moklet, oleh Moklet, untuk Moklet. Saat kami dud
 
 ## Want to join?
 
-Buat yang mau gabung ke MokletDev bisa hubungi [@hasimy-as](https://github.com/hasimy-as) atau [@angkasa27](https://github.com/angkasa27)
+Buat yang mau gabung ke MokletDev bisa hubungi [Beni](https://github.com/justpiple) atau [Ahsan](https://github.com/ahsanzizan/)
 
 ## For member
 
@@ -48,11 +51,7 @@ Kalian bisa akses ke semua repository yang visible. Namum jangan lupa terapkan [
 
 Cek aja [tutorial gitflow](https://github.com/mokletdev/.github/blob/master/guide/contributing.md) jika masih bingung
 
-_Note :_
-
-Khusus project BackEnd punya [@hasimy-as](https://github.com/hasimy-as) silahkan ikuti [tutorial gitflow ini](https://github.com/mokletdev/.github/blob/master/guide/gitflow-backend.md)
-
-## Owners & Admin
+## Dibuat pada Angkatan 27 oleh:
 
 <a href="https://tlkm.id/hasimy">
 <img src="https://avatars.githubusercontent.com/u/51184185?v=4" width="75">
@@ -60,7 +59,13 @@ Khusus project BackEnd punya [@hasimy-as](https://github.com/hasimy-as) silahkan
 <a href="https://mas.angkasa27.com/">
 <img src="https://avatars0.githubusercontent.com/u/41984181?s=400&u=7a60dbe01be2b8d6d518410ec0197fac58e7ec5a&v=4" width="75" >
 </a>
-<!-- - [Achmad Syeh Hasimy, Md](mailto:hasimy@aol.com)
-- [Dimas Angkasa Nurindra](mailto:mas.angkasa27@gmail.com) -->
+
+## Admin
+<a href="https://www.ahsanzizan.xyz/">
+<img src="https://avatars.githubusercontent.com/u/116133300" width="75">
+</a>
+<a href="https://link.benspace.xyz">
+<img src="https://avatars.githubusercontent.com/u/83589651" width="75" >
+</a>
 
 _Feel free to contact us_ jika punya kritik maupun saran untuk mokletdev :)
