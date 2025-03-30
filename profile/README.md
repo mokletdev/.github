@@ -5,23 +5,25 @@
 </p>
 
 <h1 align="center">
-  MokletDev Community
+  Moklet Developers
 </h1>
 <p align="center">
-  METIC Moklet Divisi Dev
+  METIC | MokletDev Division
 </p>
 
-## Open-sourced projects by Moklet Developers for the World 4.0 🌏
+## Tentang MokletDev 🌏
 
-Sebuah komunitas developer dari Moklet, oleh Moklet, untuk Moklet. Saat kami duduk dibangku SMK dulu, kami merasa kesulitan dalam mencari referensi untuk tugas pemrograman. Selain itu kami juga belum begitu familiar dengan Github. Maka dari itu kami menginginkan membuat sebuah komunitas developer yang terdiri dari siswa, guru, maupun alumni moklet untuk saling berbagi ilmu terutama dalam pemrograman
+MokletDev adalah divisi pengembang di bawah naungan Moklet Education of Technology and Informatic Club (METIC) di SMK Telkom Malang. Kami adalah tim yang memiliki semangat tinggi dalam pengembangan perangkat lunak, dengan fokus pada pembuatan solusi IT yang inovatif. Kami memiliki semangat yang tinggi untuk terus berkembang dan berinovasi sehingga menciptakan banyak karya yang bermanfaat bagi banyak orang.
 
-# What to do
+Disini, kami adalah sekelompok orang yang sangat berdedikasi, tidak hanya belajar tetapi juga secara aktif mengerjakan proyek IT untuk kebutuhan sekolah maupun inisiatif eksternal. Setiap anggota memiliki misi untuk belajar dan memberikan dampak nyata di dunia teknologi!
 
-## Want to join?
+# Apa yang Harus Dilakukan
 
-Buat yang mau gabung ke MokletDev bisa hubungi [Beni](https://github.com/justpiple) atau [Ahsan](https://github.com/ahsanzizan/)
+## Minat untuk Bergabung?
 
-## For member
+Buat yang mau gabung ke MokletDev bisa hubungi [Naufal](https://github.com/naufalnrsmitter20/) atau [Haza](https://github.com/hazz01/)
+
+## Untuk member
 
 Ada beberapa hal yang harus dilakukan, yaitu:
 
@@ -60,12 +62,22 @@ Cek aja [tutorial gitflow](https://github.com/mokletdev/.github/blob/master/guid
 <img src="https://avatars0.githubusercontent.com/u/41984181?s=400&u=7a60dbe01be2b8d6d518410ec0197fac58e7ec5a&v=4" width="75" >
 </a>
 
-## Admin
+## Manager Angkatan 31
+
+<a href="https://link.benspace.xyz">
+<img src="https://avatars.githubusercontent.com/u/83589651" width="75" >
+</a>
 <a href="https://www.ahsanzizan.xyz/">
 <img src="https://avatars.githubusercontent.com/u/116133300" width="75">
 </a>
-<a href="https://link.benspace.xyz">
-<img src="https://avatars.githubusercontent.com/u/83589651" width="75" >
+
+## Manager Angkatan 32
+
+<a href="https://naufalnr.my.moklet.org/">
+<img src="https://avatars.githubusercontent.com/u/128666209" width="75">
+</a>
+<a href="https://hazanasrullah.framer.ai/">
+<img src="https://avatars.githubusercontent.com/u/67396697" width="75" >
 </a>
 
 _Feel free to contact us_ jika punya kritik maupun saran untuk mokletdev :)
