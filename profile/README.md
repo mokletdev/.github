@@ -1,15 +1,11 @@
 <p align="center">
-  <a href="https://nextjs.org"></a>
-    <img src="https://avatars.githubusercontent.com/u/94826842?s=200&v=4" height="150">
-  </a>
+  <img src="https://avatars.githubusercontent.com/u/94826842?s=200&v=4" height="120" alt="Logo MokletDev">
 </p>
 
-<h1 align="center">
-  Moklet Developers
-</h1>
-<p align="center">
-  METIC | MokletDev Division
-</p>
+<h1 align="center">Moklet Developers</h1>
+<p align="center"><em>METIC | MokletDev Division</em></p>
+
+---
 
 ## Tentang MokletDev 🌏
 
@@ -17,67 +13,65 @@ MokletDev adalah divisi pengembang di bawah naungan Moklet Education of Technolo
 
 Disini, kami adalah sekelompok orang yang sangat berdedikasi, tidak hanya belajar tetapi juga secara aktif mengerjakan proyek IT untuk kebutuhan sekolah maupun inisiatif eksternal. Setiap anggota memiliki misi untuk belajar dan memberikan dampak nyata di dunia teknologi!
 
-# Apa yang Harus Dilakukan
+---
 
-## Minat untuk Bergabung?
+## Apa yang Harus Dilakukan
 
-Buat yang mau gabung ke MokletDev bisa hubungi [Naufal](https://github.com/naufalnrsmitter20/) atau [Haza](https://github.com/hazz01/)
+### Minat untuk Bergabung?
 
-## Untuk member
+Hubungi **[Naufal](https://github.com/naufalnrsmitter20/)** atau **[Haza](https://github.com/hazz01/)**.
 
-Ada beberapa hal yang harus dilakukan, yaitu:
+### Untuk Member
 
-1. Membuat data diri pada `member/[username].md`
+- Buat repositori baru atau _contribute_ ke repositori yang sudah ada sesuai **[gitflow](https://github.com/mokletdev/.github/blob/master/guide/contributing.md)**.
+- _(Opsional)_ Ubah visibility keanggotaan organisasi menjadi **public** di **[tab People](https://github.com/orgs/mokletdev/people)** (klik dropdown `private` pada nama Anda lalu ganti ke `public`).
 
-   Bisa mencontoh pada file yang sudah ada. Biar kenal sama yang lain
+---
 
-2. Membuat repository baru atau kontribusi ke repository yang sudah ada sesuai dengan [gitflow](https://github.com/mokletdev/.github/blob/master/guide/contributing.md)
+## Tutorial
 
-   Sambil belajar gimana sih gitflow yang baik itu
+### 1) Membuat Repositori Baru
 
-3. (Opsional) Ubah visibility keanggotaan menjadi public
+- Gunakan nama repositori yang jelas.
+- Buat `README.md` yang menjelaskan tujuan dan ruang lingkup proyek.
+- _(Opsional)_ Set **visibility** ke **public** agar bisa dilihat anggota lain.
 
-   Secara default, visibility keanggotaan pada organisasi di github adalah `private`. Buat yang mau dirubah bisa buka [tab people](https://github.com/orgs/mokletdev/people), pada baris nama kalian klik dropdown `private` dan ubah ke `public`
+### 2) Kontribusi ke Repositori
 
-# Tutorial
+- Akses repositori yang tersedia/visible dalam organisasi.
+- Terapkan alur **[gitflow](https://github.com/mokletdev/.github/blob/master/guide/contributing.md)** saat membuat branch, commit, dan pull request.
 
-## Membuat Repository Baru
+<br>
 
-Kalian bisa membuat repository baru dengan memberi nama repo yang jelas. Jangan lupa buat `readme.md` dan jelaskan apa yang kamu kerjakan di repository yang kamu buat.
+  Selengkapnya cek **[tutorial gitflow](https://github.com/mokletdev/.github/blob/master/guide/contributing.md)**.
 
-Tambahan, kamu bisa atur visibility repository nya ke public biar yang lain juga bisa lihat.
+---
 
-## Contribute ke repository
-
-Kalian bisa akses ke semua repository yang visible. Namum jangan lupa terapkan [gitflow](https://github.com/mokletdev/.github/blob/master/guide/contributing.md) yang sudah ditentukan. Sekalian belajar gitflow yang baik itu gimana~
-
-Cek aja [tutorial gitflow](https://github.com/mokletdev/.github/blob/master/guide/contributing.md) jika masih bingung
-
-## Dibuat pada Angkatan 27 oleh:
-
-<a href="https://tlkm.id/hasimy">
-<img src="https://avatars.githubusercontent.com/u/51184185?v=4" width="75">
-</a>
-<a href="https://mas.angkasa27.com/">
-<img src="https://avatars0.githubusercontent.com/u/41984181?s=400&u=7a60dbe01be2b8d6d518410ec0197fac58e7ec5a&v=4" width="75" >
-</a>
-
-## Manager Angkatan 31
-
-<a href="https://link.benspace.xyz">
-<img src="https://avatars.githubusercontent.com/u/83589651" width="75" >
-</a>
-<a href="https://www.ahsanzizan.xyz/">
-<img src="https://avatars.githubusercontent.com/u/116133300" width="75">
-</a>
-
-## Manager Angkatan 32
+### Manager Angkatan 32
 
 <a href="https://naufalnr.my.moklet.org/">
-<img src="https://avatars.githubusercontent.com/u/128666209" width="75">
+  <img src="https://avatars.githubusercontent.com/u/128666209" width="75" alt="Naufal">
 </a>
 <a href="https://hazanasrullah.framer.ai/">
-<img src="https://avatars.githubusercontent.com/u/67396697" width="75" >
+  <img src="https://avatars.githubusercontent.com/u/67396697" width="75" alt="Haza Nasrullah">
 </a>
 
-_Feel free to contact us_ jika punya kritik maupun saran untuk mokletdev :)
+
+### Maintainers
+
+<a href="https://biolinky.co/hasimy">
+  <img src="https://avatars.githubusercontent.com/u/51184185?v=4" width="50" alt="Hasimy">
+</a>
+<a href="https://asaa.dev/">
+  <img src="https://avatars0.githubusercontent.com/u/41984181?s=400&u=7a60dbe01be2b8d6d518410ec0197fac58e7ec5a&v=4" width="50" alt="Asaa">
+</a>
+<a href="https://link.benspace.xyz">
+  <img src="https://avatars.githubusercontent.com/u/83589651" width="50" alt="Ben">
+</a>
+<a href="https://www.ahsanzizan.xyz/">
+  <img src="https://avatars.githubusercontent.com/u/116133300" width="50" alt="Ahsan Zizan">
+</a>
+
+---
+
+_Feel free to contact us_ jika punya kritik maupun saran untuk MokletDev :)
