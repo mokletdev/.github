@@ -43,33 +43,35 @@ Hubungi **[Naufal](https://github.com/naufalnrsmitter20/)** atau **[Haza](https:
 
 <br>
 
-  Selengkapnya cek **[tutorial gitflow](https://github.com/mokletdev/.github/blob/master/guide/contributing.md)**.
+Selengkapnya cek **[tutorial gitflow](https://github.com/mokletdev/.github/blob/master/guide/contributing.md)**.
 
 ---
 
 ### Manager Angkatan 32
 
 <a href="https://naufalnr.my.moklet.org/">
-  <img src="https://avatars.githubusercontent.com/u/128666209" width="75" alt="Naufal">
+<img src="https://avatars.githubusercontent.com/u/128666209" width="75">
 </a>
 <a href="https://hazanasrullah.framer.ai/">
-  <img src="https://avatars.githubusercontent.com/u/67396697" width="75" alt="Haza Nasrullah">
+<img src="https://avatars.githubusercontent.com/u/67396697" width="75" >
 </a>
 
+#### Manager Angkatan 31
 
-### Maintainers
-
-<a href="https://biolinky.co/hasimy">
-  <img src="https://avatars.githubusercontent.com/u/51184185?v=4" width="50" alt="Hasimy">
-</a>
-<a href="https://asaa.dev/">
-  <img src="https://avatars0.githubusercontent.com/u/41984181?s=400&u=7a60dbe01be2b8d6d518410ec0197fac58e7ec5a&v=4" width="50" alt="Asaa">
-</a>
 <a href="https://link.benspace.xyz">
-  <img src="https://avatars.githubusercontent.com/u/83589651" width="50" alt="Ben">
+<img src="https://avatars.githubusercontent.com/u/83589651" width="50" >
 </a>
 <a href="https://www.ahsanzizan.xyz/">
-  <img src="https://avatars.githubusercontent.com/u/116133300" width="50" alt="Ahsan Zizan">
+<img src="https://avatars.githubusercontent.com/u/116133300" width="50">
+</a>
+
+#### Created by Tsm 27
+
+<a href="https://biolinky.com/hasimy">
+<img src="https://avatars.githubusercontent.com/u/51184185?v=4" width="50">
+</a>
+<a href="https://mas.angkasa27.com/">
+<img src="https://avatars0.githubusercontent.com/u/41984181?s=400&u=7a60dbe01be2b8d6d518410ec0197fac58e7ec5a&v=4" width="50" >
 </a>
 
 ---
