@@ -65,12 +65,12 @@ Selengkapnya cek **[tutorial gitflow](https://github.com/mokletdev/.github/blob/
 <img src="https://avatars.githubusercontent.com/u/116133300" width="50">
 </a>
 
-#### Created by Tsm 27
+#### Created by Frekuensi 27
 
 <a href="https://biolinky.com/hasimy">
 <img src="https://avatars.githubusercontent.com/u/51184185?v=4" width="50">
 </a>
-<a href="https://mas.angkasa27.com/">
+<a href="https://asaa.dev/">
 <img src="https://avatars0.githubusercontent.com/u/41984181?s=400&u=7a60dbe01be2b8d6d518410ec0197fac58e7ec5a&v=4" width="50" >
 </a>
 
